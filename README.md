@@ -36,14 +36,40 @@
 
 ---
 
-<h3 align="left">My Projects(See pinned)</h3>
+<h3 align="left">My Projects and related skills(See pinned)</h3>
 
 - 📖 [Learner Dictionary Web Application] <br>
+  - Django
+  - React
+  - Typescript
+  - Bootstrap
+  - CSS
+  - Asynchoronous programming with HTTP requests
+    
 - 🕹️ [Maze Mini Game] <br>
+  - Python
+  - Pygame
+  - Maze generation algorithms (DFS)
+    
 - 📚 [To-do List Web Application] <br>
+  - Django
+  - CSS
+  - MTV(Model-Template-View) architecture
+  - Jinja 2 templating
+  - CRUD operation
+  - RESTful API
+    
 - 🎭 [2D RPG Horror Game (WIP)] <br>
+  - C#
+  - Unity
+  
 - 🔎 [A* Path Finding Visualization & Path Finder] <br>
+  - Pygame visualization
+  
 - ♟️ [Tic Tac Toe Solution Finder] <br>
+  - Backtracking
+  - Linked Lists
+  - Stacks
 
 ---
 [Learner Dictionary Web Application]: https://github.com/ngngka1/Dictionary-webapp
