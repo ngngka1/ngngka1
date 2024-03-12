@@ -68,6 +68,7 @@
   
 - ♟️ [Tic Tac Toe Solution Finder] <br>
   - Backtracking
+  - Pointers/memory allocation in C++
   - Linked Lists
   - Stacks
 
