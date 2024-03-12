@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently pursuing the Bachelor's degree in Computing & AI at the Hong Kong Polytechnic University <br>
 - 🔭 Full-stack software development is my aspiration <br>
-- 💭 I'm currently learning more about databases and web design <br>
+- 💭 I'm currently learning **AWS**, **databases** and **web design** <br>
 - 👯 I’m looking to collaborate with a team to learn more practical knowledge, as well as to make more constructive applications more efficiently <br>
 - 📫 Reach me at: **nkayu831@gmail.com**
 
